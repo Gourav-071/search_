@@ -1,0 +1,12 @@
+.main {
+  margin: auto;
+  width: 70%;
+  height: 80vh;
+  padding: 10px;
+  text-align: center;
+  background-color: beige;
+}
+.contain{
+    padding-top:30px;
+
+}
